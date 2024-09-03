@@ -3,3 +3,6 @@
 NEW info!!!
 
 Text by browser
+
+
+Локальный текст
